@@ -1,0 +1,73 @@
+Saludar(): con y sin parámetros y parámetros por defecto
+
+Saludar nombre apellidos
+
+Saludar chico o chica
+
+Función que devuelve el doble
+
+Función que recibe un lado y calcula el perímetro del cuadrado
+
+Función que recibe una radio y devuelve el área de la circunferencia
+
+Implementar una función que reciba como parámetro un número y muestre por pantalla un valor lógico indicando si es positivo o negativo
+
+Realizar el ejercicio anterior pero la función no se encargará de mostrarlo por pantalla, sino que tan sólo ha de devolver el valor.
+
+Función que calcula la raíz cuadrada de un número que recibe como parámetro, teniendo la precaución de no llamar a la función si el número es negativo, en cuyo caso se muestra un mensaje de error.
+
+Implementar una función que determine si un año es bisiesto o no
+
+Función que recibe un precio (número real) y muestra por pantalla "El importe es X euros con XX céntimos"
+
+Función que recibe una temperatura y dice si está dentro de 5 rangos: muy frío, frío, templado, calor, mucho calor.
+
+Mostrar los números pares del 1 al 100
+
+Función que recibe un intervalo (ej: mínimo 2 máximo 20) y muestra los números pares o impares de ese intervalo, según se especifique por parámetro (ej: p -> par, i->impar)
+
+Función que determina si un número es primo
+
+Función que muestra todos los números primos del 1 al 100 (usando la función anterior)
+
+Programa que calcula un importe dado en las monedas correspondientes (ej: 3,47€ = 1x2€ + 1x1€ + 2x20cts + 1x5cts + 1x2cts)
+
+🔥Diseñar un algoritmo que determine si hay tres números que están ordenados de mayor a menor (NO consiste en ordenar, solo indicar si están ordenados o no).
+
+A. Una función que determina si los tres números están ordenados
+B. Una función que recibe dos números y determina si el primero es mayor que el segundo.
+Crear una matriz con los días de la semana.
+
+Recorrer un array con los días de la semana, mostrando en cada vuelta el día en la posición x es y, donde x sería la posición y sería el día de la semana.
+
+Crear una matriz de números consecutivos desde un valor mínimo dado hasta un valor máximo dado, recorriéndolo mostrando el valor y la posición.
+
+Crear una matriz de números aleatorios y hacer lo siguiente:
+
+Recorrerlo mostrando el valor y la posición
+Mostrar el valor máximo y el mínimo.
+Finalmente ordenar la matriz de mayor a menor
+Recorrer una matriz de números y crear una segunda matriz sólo con los números impares
+
+Crear una matriz con los 20 primeros términos de la sucesión de Fibonacci
+
+Matriz de temperaturas del fin de semana (viernes a domingo), mañana, tarde y noche
+
+Igual que el ejercicio anterior, pero en vez de crear el array a mano, crearlo con valores aleatorios entre el 15 y el 25 por las mañanas, entre el 10 y el 20 por las tardes y entre el 5 y el 15 por las noches. Una vez creado el array con valores aleatorios, recorriéndolo mostrando todos los valores.
+
+Matemáticas. "Calculadora" con:
+
+Raíz cuadrada de números
+Mostrar Pi
+Número aleatorio entre 0 y 1
+Número aleatorio entre 0 y 100
+Número aleatorio entre 2 y 50
+Cadena. Definir un script que muestre información sobre una cadena de texto introducida por el usuario:
+
+Longitud de la cadena.
+Separar las palabras de la cadena y mostrarlo por pantalla. • Determinar el número de letras mayúsculas.
+Determinar el número de letras minúsculas.
+Reemplazar las apariciones de la letra 'a' o 'A' por 'e'.
+Cadena DNI: sacar la letra del DNI Introducida por un prompt. Validar si ese DNI es válido (buscar en internet cómo se hace)
+
+Cadena Cifrado ROT13: Dado un texto cifrarlo en ROT13. Realizar también una función para poder descifrarlo
